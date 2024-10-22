@@ -28,11 +28,6 @@
 #include <sstream>
 #include <iostream>
 
-
-
-
-
-
 class Shaders
 {
 public:
